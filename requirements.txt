@@ -1,0 +1,6 @@
+ipython==8.12.3
+numpy==1.23.5
+scipy==1.10.0
+matplotlib==3.7.0
+tqdm==4.66.2
+
