@@ -15,7 +15,7 @@ matplotlib==3.7.0
 tqdm==4.66.2
 ```
 
-Simluation Result (feel free to try it out yourself)
+Simulation Result (feel free to try it out yourself)
 <p align="center">
 <img src="https://github.com/austinmyc/percolation/assets/59735570/5810321d-ab59-4677-a046-f1d360ef9f05">
 </p>
